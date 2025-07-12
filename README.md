@@ -3,6 +3,9 @@
 [![Shikivost](https://img.shields.io/amo/v/shikivost)](https://addons.mozilla.org/ru/firefox/addon/shikivost/)
 [![Shikivost](https://img.shields.io/chrome-web-store/v/alfpkdagonppegpjijmcgcccafchklmc)](https://chromewebstore.google.com/detail/alfpkdagonppegpjijmcgcccafchklmc)
 
+## ⚠️ Important Notice
+**Since Shikimori changed its owners, the site has become basically unusable for me. I recommend using MyAnimeList instead.**
+
 ## Description
 
 Tired of juggling between Animevost.org and Shikimori.one to keep track of your anime progress? Introducing Shikivost – your go-to extension for a hassle-free anime-watching experience. This nifty tool effortlessly syncs your watched episodes on Animevost.org with your Shikimori.one account. No more manual updates, no more confusion about where you left off – Shikivost does it all in the background.
