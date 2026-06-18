@@ -9,8 +9,8 @@
       "options": {
         "commands": [
           "node extension/static/generateManifest.js",
-          "if not exist dist\\extension mkdir dist\\extension",
-          "xcopy extension\\static\\assets dist\\extension /E /I /Y"
+          "mkdir -p dist/extension",
+          "cp -R extension/static/assets/* dist/extension"
         ],
         "parallel": false
       }
@@ -20,8 +20,8 @@
       "options": {
         "commands": [
           "node extension/static/generateManifest.js --chrome",
-          "if not exist dist\\extension mkdir dist\\extension",
-          "xcopy extension\\static\\assets dist\\extension /E /I /Y"
+          "mkdir -p dist/extension",
+          "cp -R extension/static/assets/* dist/extension"
         ],
         "parallel": false
       }

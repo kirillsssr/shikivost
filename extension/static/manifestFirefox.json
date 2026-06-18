@@ -21,7 +21,7 @@
   "background": {
     "scripts": ["background/index.js"]
   },
-  "permissions": ["storage", "https://shikimori.one/*"],
+  "permissions": ["storage", "https://shikimori.one/*", "https://shikimori.io/*"],
   "content_scripts": [
     {
       "matches": ["https://animevost.org/*", "https://v2.vost.pw/*"],

@@ -7,7 +7,9 @@ export function AnimeTitle() {
   if (animeData) {
     return (
       <a
-        href={`https://shikimori.one${animeData.url}`}
+        href={`https://shikimori.io${animeData.url}`}
+        //href={`https://shikimori.one${animeData.url}`}
+
         target="_blank"
         className={clsx(
           "anime-title-link",
